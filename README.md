@@ -1,4 +1,4 @@
-# 10. Local Storage in Javascript
+# Local-Storage in Javascript
 ## 1st Task 
 Show the student and its grades at the end of the page on save student click.
 ## 2nd Task 
